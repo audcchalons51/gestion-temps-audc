@@ -1,0 +1,73 @@
+{
+  "maj": "19/10/2026 13:50",
+  "personnes": [
+    {
+      "nom": "Éric CITERNE",
+      "fichier": "Eric_CITERNE.csv"
+    },
+    {
+      "nom": "Kathy KILLIAN",
+      "fichier": "Kathy_KILLIAN.csv"
+    },
+    {
+      "nom": "Michaël AKSAMIT",
+      "fichier": "Michael_AKSAMIT.csv"
+    },
+    {
+      "nom": "Boris DJONGON",
+      "fichier": "Boris_DJONGON.csv"
+    },
+    {
+      "nom": "Christophe-Louis MELE",
+      "fichier": "Christophe-Louis_MELE.csv"
+    },
+    {
+      "nom": "Théo PETRE",
+      "fichier": "Theo_PETRE.csv"
+    },
+    {
+      "nom": "Renaud MIELCAREK",
+      "fichier": "Renaud_MIELCAREK.csv"
+    },
+    {
+      "nom": "Florent BARBUSSE",
+      "fichier": "Florent_BARBUSSE.csv"
+    },
+    {
+      "nom": "Daouda FALL",
+      "fichier": "Daouda_FALL.csv"
+    },
+    {
+      "nom": "Abdou GUENE",
+      "fichier": "Abdou_GUENE.csv"
+    },
+    {
+      "nom": "Stéphanie RIFFAUD",
+      "fichier": "Stephanie_RIFFAUD.csv"
+    },
+    {
+      "nom": "François DA SILVA",
+      "fichier": "Francois_DA_SILVA.csv"
+    },
+    {
+      "nom": "Naouel GORMIT",
+      "fichier": "Naouel_GORMIT.csv"
+    },
+    {
+      "nom": "Rawia LAKHOUAJA",
+      "fichier": "Rawia_LAKHOUAJA.csv"
+    },
+    {
+      "nom": "Laurent MOREAU",
+      "fichier": "Laurent_MOREAU.csv"
+    },
+    {
+      "nom": "Marie SARO",
+      "fichier": "Marie_SARO.csv"
+    },
+    {
+      "nom": "Clara ZIMMER",
+      "fichier": "Clara_ZIMMER.csv"
+    }
+  ]
+}
