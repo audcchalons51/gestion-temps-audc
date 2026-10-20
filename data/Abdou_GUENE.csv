@@ -1,22 +1,123 @@
 DATES,TÂCHES,TEMPS DE TRAVAIL,TEMPS total par sujet (récap)
-02/11/2026,Faire ce dossier,7,
-03/11/2026,,,
-04/11/2026,,,
-05/11/2026,,,
-06/11/2026,,,
-09/11/2026,,,
-10/11/2026,,,
-11/11/2026,,,
-12/11/2026,,,
-13/11/2026,,,
-16/11/2026,,,
-17/11/2026,,,
-18/11/2026,,,
-19/11/2026,,,
-20/11/2026,,,
-23/11/2026,,,
-24/11/2026,,,
-25/11/2026,,,
-26/11/2026,,,
-27/11/2026,,,
-30/11/2026,,,
+01/10/2026,"- Chiffres clés: 
+   -> Relecture
+- Reprise des projets: 
+   -> Reflexions sur mise en plage d'une instance Lizmap (projet Théo)
+   -> Partie emplois/économie:Structures privées (ursaff)
+- Projet en alternance:
+   -> Traitement de données et rédaction de rapport","2h: Projet alternance
+2h: Chiffres clés 2026
+3h: Reprise des projets",
+02/10/2026,"- Reprise des projets: 
+   -> Reflexions sur mise en plage d'une instance Lizmap (projet Théo)
+   -> Comprendre les modalités de mise en place
+   -> Les offres 3Liz
+- Projet en alternance:
+   -> Traitement de données et rédaction de rapport
+   -> Test d'execution base de données","2h: Projet alternance
+5h: Reprise des projets",
+05/10/2026,"- Reprise des projets: 
+   -> Reflexions sur mise en plage d'une instance Lizmap (projet Théo)
+   -> Comprendre les modalités de mise en place
+   -> Les offres 3Liz / rapports avec la DSI/avec la future base de données geospatiales
+- Projet en alternance:
+   -> Traitement de données et rédaction de rapport
+   -> Test d'execution base de données","2h: Projet alternance
+5h: Reprise des projets",
+06/10/2026,"- Reprise des projets: 
+   -> Enveloppe urbaine: Documentation et anticipation des taches en attendant le retour de François
+   -> Comprendre les modalités de mise en place
+   -> Les offres 3Liz / rapports avec la DSI
+- Projet en alternance:
+   -> Compilation des parties traitées par le groupe de travail
+   -> Vérification des traitements par rapport au cahier des charges","2h: Projet alternance
+5h: Reprise des projets""",
+07/10/2026,"- Reprise des projets: 
+   -> Enveloppe urbaine: Documentation et anticipation des taches en attendant le retour de François
+   -> Comprendre les modalités de mise en place
+   -> Les offres 3Liz / rapports avec la DSI
+- Projet en alternance:
+   -> Compilation des parties traitées par le groupe de travail
+   -> Vérification des traitements par rapport au cahier des charges","1h: Projet alternance
+6h: Reprise des projets",
+08/10/2026,"- Projet Lizmap (documentation sur la mise en place et son impact pour l'AUDC)
+   -> Prestataires possible
+   -> Rapport avec la DSI
+   -> Les offres 3Liz / rapports avec la DSI
+   -> Quels rapports avec le projets de la future base de données
+- Projet en alternance:
+   -> Réunion d'équipe avec intervenant de la commune d'Anglet","30min: Projet alternance
+6h30: Projet Lizmap",
+09/10/2026,"- Projet Lizmap (documentation sur la mise en place et son impact pour l'AUDC)
+   -> Prestataires possible
+   -> Rapport avec la DSI
+   -> Les offres 3Liz / rapports avec la DSI
+   -> Quels rapports avec le projets de la future base de données
+- Projet en alternance:
+   -> Relecture et ajustements de la rédaction des différents collègues","2h: Projet alternance
+5h: Projet Lizmap",
+12/10/2026,"- Projet Lizmap (documentation sur la mise en place et son impact pour l'AUDC)
+   -> Prestataires possible
+   -> Rapport avec la DSI
+   -> Les offres 3Liz / rapports avec la DSI
+   -> Quels rapports avec le projets de la future base de données
+- Anticipation des projets QGIS automatisés en lien avec la future base de données
+   -> Recuperation des styles (pour les projet prioritaires)","1: Projet alternance
+2h: Projet Lizmap
+4h: Projet base de données",
+13/10/2026,"- Developper une plateforme de documentation pour l'agence (https://audcchalons51.github.io/methodes_travaux_audc51/)
+   ->Création de la plateforme
+   -> Mise en page de l'accuil
+   -> Mettre en ligne quelques dépots de méthodologies interessants en géomatique
+   -> Tester les fonctionnalités
+- Projet en alternance:
+   -> Relecture et ajustements de la rédaction des différents collègues","1h30: Projet alternance
+5h30: Plateforme de documentation pour l'agence",
+14/10/2026,"- Developper une plateforme de documentation pour l'agence (https://audcchalons51.github.io/methodes_travaux_audc51/)
+   -> Mise en page de l'accuil
+   -> Mettre en ligne quelques dépots de méthodologies interessants en géomatique
+   -> Tester les fonctionnalités",7h: Plateforme de documentation pour l'agence,
+15/10/2026,"- Developper une plateforme de documentation pour l'agence (https://audcchalons51.github.io/methodes_travaux_audc51/)
+   -> Mise en page de l'accuil
+   -> Mettre en ligne quelques dépots de méthodologies interessants en géomatique
+   -> Tester les fonctionnalités
+- Visite d'alternance d'IDGEO
+   -> Participants: Abdou, Stéphanie et Cécilia","6h: Plateforme de documentation pour l'agence
+1h: Visite d'alternance d'IDGEO",
+16/10/2026,"- Developper une plateforme de documentation pour l'agence (https://audcchalons51.github.io/methodes_travaux_audc51/)
+   -> Mise en page de l'accuil
+   -> Mettre en ligne quelques dépots de méthodologies interessants en géomatique
+   -> Tester les fonctionnalités
+   -> Recherche d'outils Git complémentaire pouvant aider aux travaux cartographiques automatisés de l'agence
+- Programme de travail AUDC 2027
+   -> Lecture et compréhension des attendus
+- Projet en alternance:
+   -> Relecture et ajustements de la rédaction des différents collègues
+   -> Application web avec comptes utilisateurs et possibilités de calcul itinéraire (Open Source)","3h30: Projet alternance
+3h: Plateforme de documentation pour l'agence
+30m: Programme de travail AUDC 2027",
+19/10/2026,"- Developper une plateforme de documentation pour l'agence (https://audcchalons51.github.io/methodes_travaux_audc51/)
+   -> Mise en page de l'accuil
+   -> Mettre en ligne quelques dépots de méthodologies interessants en géomatique
+   -> Tester les fonctionnalités
+   -> Recherche d'outils Git complémentaire pouvant aider aux travaux cartographiques automatisés de l'agence
+- Discussion pour la prise de contact avec IDGEO pour s'informer sur les propositions de Lizmap
+   -> avec Théo, Boris, Clara et Christophe
+- Projet en alternance:
+   -> Relecture et ajustements de la rédaction des différents collègues
+   -> Application web avec comptes utilisateurs et possibilités de calcul itinéraire (Open Source)","2h30: Projet alternance
+4h: Plateforme de documentation pour l'agence
+30m: Pise de contact IDGEO",
+20/10/2026,"- Developper une plateforme de documentation pour l'agence (https://audcchalons51.github.io/methodes_travaux_audc51/)
+   -> Mise en page de l'accuil
+   -> Mettre en ligne quelques dépots de méthodologies interessants en géomatique
+   -> Tester les fonctionnalités
+   -> Recherche d'outils Git complémentaire pouvant aider aux travaux cartographiques automatisés de l'agence
+- Discussion pour la prise de contact avec IDGEO pour s'informer sur les propositions de Lizmap
+   -> Collecte des disponibilités et organisation de la réunion zoom
+- Projet en alternance:
+   -> Relecture et ajustements de la rédaction des différents collègues
+   -> Application web avec comptes utilisateurs et possibilités de calcul itinéraire (Open Source)
+   -> Correction des traitements selon les nouvelles données reçus du services d'accessibilités de la commune d'Anglet","2h30: Projet alternance
+4h: Plateforme de documentation pour l'agence
+20m: Pise de contact IDGEO",
