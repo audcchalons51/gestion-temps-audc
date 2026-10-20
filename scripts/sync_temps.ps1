@@ -5,7 +5,7 @@ param(
     [switch]$NoPush,
     [string]$LogFile = ''
 )
-
+ 
 $ErrorActionPreference = 'Stop'
 Set-StrictMode -Version Latest
 
