@@ -1,22 +1,8 @@
-DATES,TÂCHES,TEMPS DE TRAVAIL,TEMPS total par sujet (récap)
-02/11/2026,,,
-03/11/2026,,,
-04/11/2026,,,
-05/11/2026,,,
-06/11/2026,,,
-09/11/2026,,,
-10/11/2026,,,
-11/11/2026,,,
-12/11/2026,,,
-13/11/2026,,,
-16/11/2026,,,
-17/11/2026,,,
-18/11/2026,,,
-19/11/2026,,,
-20/11/2026,,,
-23/11/2026,,,
-24/11/2026,,,
-25/11/2026,,,
-26/11/2026,,,
-27/11/2026,,,
-30/11/2026,,,
+﻿DATES;TÂCHES;TEMPS DE TRAVAIL
+01/10/2026;"- Exemple de tâche
+   -> détail de la tâche";"2h30: Projet exemple
+4h30: Autre sujet"
+02/10/2026;"- Une autre journée
+   -> réunion d'équipe";"5h: Projet exemple
+30min: Réunion
+1h30: Autre sujet"
